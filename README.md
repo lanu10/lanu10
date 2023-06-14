@@ -5,3 +5,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 
+![Alt text](https://github.com/lanu10/lanu10/blob/main/images/picture01.jpg?raw=true)
