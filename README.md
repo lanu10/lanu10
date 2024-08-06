@@ -6,3 +6,5 @@
 
 
 ![Alt text](https://github.com/lanu10/lanu10/blob/main/images/picture01.jpg?raw=true)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lan08)](https://solved.ac/lan08/)
